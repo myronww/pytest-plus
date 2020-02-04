@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+            		"path": "./"
+        	},
+               {
+                       “name”: “site-packages”,
+                       “path”: “/usr/local/lib/python3.5/site-packages”
+               }
+	]
+}
